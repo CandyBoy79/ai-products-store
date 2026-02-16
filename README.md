@@ -1,39 +1,40 @@
-# AI Products Bundle - Free Collection
+# 🎯 AI Products Store
 
-🤖 **AI Prompts & Templates for Everyone**
-
----
-
-## 📦 What's Inside
-
-| Folder | Description |
-|--------|-------------|
-| `prompts/chatgpt/` | ChatGPT Master Prompts |
-| `prompts/image-generation/` | Midjourney & Stable Diffusion Prompts |
-| `prompts/coding/` | Claude & Code Assistant Prompts |
-| `templates/` | Notion & Productivity Templates |
+**Free AI Prompts & Templates for Everyone!**
 
 ---
 
-## 🚀 How to Use
+## 🛒 Shop
 
-1. Browse the folders above
-2. Find a prompt or template you need
-3. Copy and use it for free!
+**[Visit Our Ko-fi Store →](https://ko-fi.com/candyboy45765)**
 
 ---
 
-## � Support This Project
+## 📦 Products
 
-If you found these helpful, you can support by:
-- ⭐ Starring this repository
-- 📤 Sharing with friends
-- ☕ Buying me a coffee (link in bio)
+| Product | Description | Price |
+|---------|-------------|-------|
+| ChatGPT Prompts Bundle | 130+ business & life prompts | ₩5,000 |
+| Midjourney V6 Guide | 250+ image prompts | ₩5,000 |
+| Python Automation | 50+ ready-to-use scripts | ₩5,000 |
+| Notion Templates | Life OS & business templates | ₩3,000 |
 
 ---
 
-## 📞 Contact
+## 🔗 Quick Links
 
-Questions? Reach out!
+- **Store**: https://ko-fi.com/candyboy45765
+- **GitHub**: https://github.com/CandyBoy79/ai-products-store
 
-*This is an open, free collection for the AI community.*
+---
+
+## 💡 How It Works
+
+1. Visit our Ko-fi store
+2. Choose your product
+3. Complete payment
+4. Get instant access!
+
+---
+
+*Automated AI Products Store*

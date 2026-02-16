@@ -3,7 +3,7 @@
 ## 🔗 Important Links
 
 - **GitHub Repository**: https://github.com/CandyBoy79/ai-products-store
-- **Support**: https://ko-fi.com/yourusername (설정하세요)
+- **Support**: https://ko-fi.com/candyboy45765
 
 ---
 
@@ -33,7 +33,7 @@
 ## 💰 How to Purchase
 
 ### Option 1: Ko-fi
-1. Visit: https://ko-fi.com/yourusername
+1. Visit: https://ko-fi.com/candyboy45765
 2. Select product
 3. Complete payment
 4. Receive download link instantly
