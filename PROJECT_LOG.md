@@ -43,8 +43,7 @@
 
 ## 업데이트
 - 2026-02-16 16:20: GitHub 저장소 생성 완료
-- 2026-02-16 16:30: Ko-fi 스토어 설정 완료 (https://ko-fi.com/candyboy45765)
-- 2026-02-16 16:45: AI Side Hustle Guide 추가
-- 2026-02-16 16:46: AI Business Ideas 100+ 추가
-- 2026-02-16 16:48: Email Templates 50+ 추가
-- 2026-02-16 16:50: GitHub에 Push 완료
+- 2026-02-16 16:30: Ko-fi 스토어 설정 완료
+- 2026-02-16 16:50: 제품 업데이트 (Prompts, Scripts, Templates)
+- 2026-02-16 17:00: Guides 추가 (AI Hustles, Business Ideas, YouTube, Twitter, Dropshipping, POD)
+- 현재: 17개 파일, 416KB
