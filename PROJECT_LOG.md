@@ -44,6 +44,5 @@
 ## 업데이트
 - 2026-02-16 16:20: GitHub 저장소 생성 완료
 - 2026-02-16 16:30: Ko-fi 스토어 설정 완료
-- 2026-02-16 16:50: 제품 업데이트 (Prompts, Scripts, Templates)
-- 2026-02-16 17:00: Guides 추가 (AI Hustles, Business Ideas, YouTube, Twitter, Dropshipping, POD)
-- 현재: 17개 파일, 416KB
+- 2026-02-16 17:00: 제품 Guides 추가
+- 2026-02-16 18:50: 스토어 웹사이트 추가 (index.html)
