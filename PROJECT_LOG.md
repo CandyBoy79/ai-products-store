@@ -46,3 +46,5 @@
 - 2026-02-16 14:50: ChatGPT Business Prompts 100개 추가
 - 2026-02-16 14:52: Midjourney V6 Complete 200+ 프롬프트 추가
 - 2026-02-16 14:54: Python Automation Scripts 50+ 추가
+- 2026-02-16 16:20: GitHub 저장소 생성 완료 - https://github.com/CandyBoy79/ai-products-store
+- 2026-02-16 16:25: 자동 게시 스크립트 생성
