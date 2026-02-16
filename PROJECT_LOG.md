@@ -42,9 +42,9 @@
 3. 수익 모델 설계
 
 ## 업데이트
-- 2026-02-16 14:48: 시작, 첫 제품군 완성
-- 2026-02-16 14:50: ChatGPT Business Prompts 100개 추가
-- 2026-02-16 14:52: Midjourney V6 Complete 200+ 프롬프트 추가
-- 2026-02-16 14:54: Python Automation Scripts 50+ 추가
-- 2026-02-16 16:20: GitHub 저장소 생성 완료 - https://github.com/CandyBoy79/ai-products-store
-- 2026-02-16 16:25: 자동 게시 스크립트 생성
+- 2026-02-16 16:20: GitHub 저장소 생성 완료
+- 2026-02-16 16:30: Ko-fi 스토어 설정 완료 (https://ko-fi.com/candyboy45765)
+- 2026-02-16 16:45: AI Side Hustle Guide 추가
+- 2026-02-16 16:46: AI Business Ideas 100+ 추가
+- 2026-02-16 16:48: Email Templates 50+ 추가
+- 2026-02-16 16:50: GitHub에 Push 완료
